@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+    color: aqua;
+
+ }
+
+ header {
+    border-bottom: solid 2PX white;
+    padding: 20PX; / *ESPAÇAMENTO DEPOIS DA BORDA E ANTES;
+    font-size: 32PX;
+    color: white;
+}
+
+section{
+background-color: #790cec;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+. chamada-text {
+    
